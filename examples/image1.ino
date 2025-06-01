@@ -67,5 +67,3 @@ const unsigned char epd_bitmap_k [] PROGMEM = {
 ....
   display.drawBitmap(0, 0,  epd_bitmap_k, 128, 64, WHITE);
   display.display();
-
-  
