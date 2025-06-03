@@ -27,4 +27,4 @@
 
 <br />
 
-* A awesome skeleton gif [repository](https://github.com/sandhan26/Skeletor-animation-arduino.git), you can make use of [this](-animation-arduino/blob/master/skeletor_v1/skeletor_v1.ino) file for learning.
+* A awesome skeleton gif [repository](https://github.com/sandhan26/Skeletor-animation-arduino.git), you can make use of [this](https://github.com/sandhan26/Skeletor-animation-arduino/tree/master/skeletor_v1) file for learning.
