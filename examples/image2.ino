@@ -48,6 +48,6 @@ void setup()
 
   display.clearDisplay();
 
-  display.drawBitmap(0, 0,  epd_bitmap_image2, 64, 64, WHITE);
+  display.drawBitmap(32, 0,  epd_bitmap_image2, 64, 64, WHITE);
   display.display();
 }
